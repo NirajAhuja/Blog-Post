@@ -4,16 +4,16 @@ seletor {
 }*/
 
 html{
-    background: url(cssimg.jpeg) no-repeat center center fixed;
+    background: url(3.jpeg) no-repeat center center fixed;
     background-size: cover;
 }
 h1{
     border-style: solid;
-    border-color: #0F6738;
+/*    border-color: #0F6738;*/
     margin-left: 40px;
 }
 h2{
-    border-style: solid;
+/*    border-style: solid;*/
     border-color: #0F6738;
     margin-left: 40px;
     width: 40%;
@@ -24,16 +24,18 @@ h2{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    color: #F75C6E;
+/*    color: #F75C6E; [pinkish type color]*/
+    color: #916E04;
    }
 .tribal{
-    border-style: double;
+/*    border-style: double;*/
     width: 25%;
-    text-align: center;
+    text-align: left;
+    font-size: 20px;
 /*    margin: 0 auto 0 auto;*/
 }
 .tribal-post{
-    border-style: outset;
+/*    border-style: outset;*/
     border-width: 10px;
     border-color: #0F6738;
     margin-bottom: 40px;
@@ -41,13 +43,14 @@ h2{
     font-size: 20px;
 }
 .sea{
-    border-style: double;
+/*    border-style: double;*/
     width: 25%;
-    text-align: center;
+    text-align: left;
+    font-size: 20px;
 /*    margin: 0 auto 0 auto;*/
 }
 .sea-post{
-    border-style: outset;
+/*    border-style: outset;*/
     border-width: 10px;
     border-color: #0F6738;
     margin-bottom: 40px;
@@ -55,13 +58,14 @@ h2{
     font-size: 20px;
 }
 .semicolon{
-    border-style: double;
+/*    border-style: double;*/
     width: 25%;
-    text-align: center;
+    text-align: left;
+    font-size: 20px;
 /*    margin: 0 auto 0 auto;*/
 }
 .semicolon-post{
-    border-style: outset;
+/*    border-style: outset;*/
     border-width: 10px;
     border-color: #0F6738;
     margin-bottom: 40px;
@@ -69,13 +73,14 @@ h2{
     font-size: 20px;
 }
 .viking{
-    border-style: double;
-    width: 25%;
-    text-align: center;
+/*    border-style: double;*/
+    width: 30%;
+    text-align: left;
+    font-size: 20px;
 /*    margin: 0 auto 0 auto;*/
 }
 .viking-post{
-    border-style: outset;
+/*    border-style: outset;*/
     border-width: 10px;
     border-color: #0F6738;
     margin-bottom: 40px;
@@ -83,13 +88,14 @@ h2{
     font-size: 20px;
 }
 .greek{
-    border-style: double;
+/*    border-style: double;*/
     width: 25%;
-    text-align: center;
+    text-align: left;
+    font-size: 20px;
 /*    margin: 0 auto 0 auto;*/
 }
 .greek-post{
-    border-style: outset;
+/*    border-style: outset;*/
     border-width: 10px;
     border-color: #0F6738;
     margin-bottom: 40px;
